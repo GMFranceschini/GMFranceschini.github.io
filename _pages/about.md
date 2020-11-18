@@ -17,13 +17,12 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Nice to meet you! I am a computational biologist currently working on the epigenetic lanscape of cancer.
-I trained as a biotechnologist (BSc) and later specialized in computational biology (MSc). Currently, I am a PhD student under the supervision of
-Prof. Francesca Demichelis, and I investigate DNA methylation patterns in primary and metastatic cancers. 
+Hey there, nice to meet you! 
 
-My main interest is the role of the epigenome in facilitating lineage plasticity and treatment resistance in prostate cancer. Furthermore, I am interested in 
-developing new methods that aid the interpretation of large scale datasets and facilitate discovery of novel biomarker. Last but not least I am a fervent believer in 
-early diagnosis and non-invasive techniques that leverage DNA methylation in circulating cell-free DNA.
+I am a computational biologist currently working on the epigenetic lanscape of cancer.
+I trained as a biotechnologist (BSc) and later specialized in computational biology (MSc). Currently, I am a PhD student under the supervision of Prof. Francesca Demichelis, and I investigate DNA methylation patterns in primary and metastatic cancers. 
 
-When I am not coding or crounching a never-ending pile of new papers (which I retweet [here](https://twitter.com/GMFranceschini)) you can find me drawing, reading a good book or breaking a sweat outside.
+My main interest is the role of the epigenome in facilitating lineage plasticity and treatment resistance in prostate cancer. Furthermore, I am interested in developing new methods that aid the interpretation of large scale datasets and facilitate discovery of novel biomarker. Last but not least I am a fervent believer in early diagnosis and non-invasive techniques that leverage DNA methylation in circulating cell-free DNA.
+
+When I am not coding or crounching a never-ending pile of recent papers (which I retweet [here](https://twitter.com/GMFranceschini)) you can find me drawing, reading a good book or breaking a sweat outside.
 
